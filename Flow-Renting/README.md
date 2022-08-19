@@ -1,4 +1,4 @@
-# Expiring NFTs on Flow Starter
+# Renting NFTs on Flow Starter
 
 ### **Welcome 👋**
 

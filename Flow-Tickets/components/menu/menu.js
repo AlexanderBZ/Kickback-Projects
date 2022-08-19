@@ -30,8 +30,8 @@ export default function Menu() {
         >
           <p>App</p>
         </a>
-        <Link href={"/my-nfts"}>
-          <p>My NFTs</p>
+        <Link href={"/tickets"}>
+          <p>My Tickets</p>
         </Link>
       </div>
     </div>
